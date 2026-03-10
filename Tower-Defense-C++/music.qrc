@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>music/backgroundsound.mp3</file>
+        <file>music/Enemydie.mp3</file>
+        <file>music/life_lose.mp3</file>
+        <file>music/tower_place.mp3</file>
+        <file>music/advance.mp3</file>
+    </qresource>
+</RCC>

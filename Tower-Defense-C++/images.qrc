@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/choose1.jpg.png</file>
+        <file>images/choose2.jpg.png</file>
+        <file>images/endmap.jpg</file>
+        <file>images/round2map.jpg</file>
+        <file>images/startmap.jpg</file>
+        <file>images/enemy1.png</file>
+        <file>images/enemy1plus.png</file>
+        <file>images/enemy2.png</file>
+        <file>images/tower1.png</file>
+        <file>images/tower1plus.png</file>
+        <file>images/tower2.png</file>
+        <file>images/towerbase.png</file>
+        <file>images/tower2plus.png</file>
+        <file>images/general.png</file>
+        <file>images/icebullet.png</file>
+        <file>images/firebullet.png</file>
+    </qresource>
+</RCC>
